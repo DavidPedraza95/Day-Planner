@@ -8,4 +8,6 @@
 
 Screenshot of the website shown below:
 
+https://davidpedraza95.github.io/Day-Planner/
+
 ![Screenshot of the homework is displayed](https://github.com/DavidPedraza95/Day-Planner/blob/main/Capture.PNG?raw=true)
